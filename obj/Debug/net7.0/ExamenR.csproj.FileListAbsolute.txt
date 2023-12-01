@@ -1,0 +1,5 @@
+C:\Users\cisco01\source\repos\ExamenR\ExamenR\obj\Debug\net7.0\ExamenR.csproj.AssemblyReference.cache
+C:\Users\cisco01\source\repos\ExamenR\ExamenR\obj\Debug\net7.0\ExamenR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco01\source\repos\ExamenR\ExamenR\obj\Debug\net7.0\ExamenR.AssemblyInfoInputs.cache
+C:\Users\cisco01\source\repos\ExamenR\ExamenR\obj\Debug\net7.0\ExamenR.AssemblyInfo.cs
+C:\Users\cisco01\source\repos\ExamenR\ExamenR\obj\Debug\net7.0\ExamenR.csproj.CoreCompileInputs.cache
